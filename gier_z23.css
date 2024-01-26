@@ -1,0 +1,37 @@
+#pogrubienie_gierszewski {
+    font-weight: bold;
+    font-size: 36px;
+    color: #CC5180;
+}
+
+#pochylona_gierszewski {
+    font-style: italic;
+    font-size: 41px;
+    color: #DE632D8;
+}
+
+#index_gorny_gierszewski {
+    font-size: 1.6cm;
+    color: #E391E8;
+}
+
+#index_dolny_gierszewski {
+    font-size: 2.7cm;
+    color: rgb(24%,94%,83%);
+}
+
+#mono_gierszewski {
+    font-family: monospace;
+    font-size: 46px;
+    color: #180D40C;
+}
+
+#powiekszenie_gierszewski {
+    font-size: 60px;
+    color:#7F90DA;
+}
+
+#pomniejszenie_gierszewski {
+    font-size: 16px;
+    color: rgb(68%,71%,20%);
+}
