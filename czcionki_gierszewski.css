@@ -1,0 +1,120 @@
+p#akapit1_gier{
+		font-family: serif;
+	text-align: right;
+	color: #ff1493;
+	 
+	
+	
+	
+	}
+	p#z1_gierszewski{
+	text-decoration: overline;
+	font-variant: small-caps;
+	font-weight: 500;
+	font-size: small;
+	
+	font-family: serif;
+	text-align: right;
+	color: #ff1493;
+	
+	text-indent: 28mm;
+	
+	
+	letter-spacing: 2ex;
+	line-height: 2cm;
+	word-spacing: 10px;
+	}
+	p#z2_gier{
+	font-style: italic;
+	font-weight: 600;
+	font-size: medium;
+	text-align: right;
+	color: #ff1493;
+	
+	font-family: serif;
+	text-indent: 28mm;
+	
+	
+	
+	letter-spacing: 2ex;
+	line-height: 2cm;
+	word-spacing: 10px;
+	}
+	p#z3_gierszewski{
+	font-weight: 700;
+	font-size: xx-large;
+	
+	font-family: serif;
+	text-align: right;
+	color: #ff1493;
+	text-indent: 28mm;
+	
+	
+	
+	letter-spacing: 2ex;
+	line-height: 2cm;
+	word-spacing: 10px;
+	}
+	
+	p#akapit2_gier{
+		font-family: serif;
+	text-align: center;
+	color: #ff69b4;
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	p#z4_gierszewski{
+		text-decoration: line-through;
+		font-variant: small-caps;
+		font-weight: 300;
+		font-size: 20px;
+		
+		font-family: sans-serif;
+		text-align: center;
+		color: #c71585;
+		
+		text-indent: 28mm;
+		
+		
+		letter-spacing: 0.25cm;
+		line-height: 20mm;
+		word-spacing: 10pt;
+		}
+		p#z5_gierszewski{
+		font-style: oblique;
+		font-weight: 600;
+		font-size: 0.5in;
+		text-align: center;
+		color: #c71585;
+		
+		font-family: sans-serif;
+		text-indent: 28mm;
+		text-transform: capitalize;
+		
+		
+		letter-spacing: 0.25cm;
+		line-height: 20mm;
+		word-spacing: 10pt;
+		}
+		p#z6_gierszewski{
+		font-weight: 800;
+		font-size: 1em;
+		
+		font-family: sans-serif;
+		text-align: center;
+		color: #c71585;
+		text-indent: 28mm;
+		
+		
+		
+		letter-spacing: 0.25cm;
+		line-height: 20mm;
+		word-spacing: 10pt;
+		}
