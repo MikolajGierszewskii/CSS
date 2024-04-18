@@ -1,0 +1,17 @@
+*{
+    font-size: 37pt;
+    color: red;
+    background-color: silver;
+}
+
+p.klasa_nieuniwersalna_gierszewski{
+    font-size: 37pt;
+    color: green;
+
+}
+
+
+.klasa_uniwersalna_gierszewski{
+    font-size: 36pt;
+    color: green;
+}

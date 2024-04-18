@@ -1,0 +1,40 @@
+body {
+    background-color: silver;
+}
+
+p {
+    font-size: 11pt;
+}
+
+p:first-child {
+    font-size: 7mm;
+    font-style: italic;
+}
+
+div#pierwszy_gierszewski {
+    background-color: rgb(245, 66, 161); 
+    border: 7px solid rgb(144, 66, 245); 
+    border-radius: 10px;
+    width: 744pt;
+    border-radius: 14px;
+}
+
+div#drugi_gierszewski {
+    background-color: rgb(176, 245, 66); 
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 944pt;
+    border-radius: 18px;
+}
+
+div#trzeci_gierszewski {
+    background-color: rgb(66, 197, 245); 
+    border: 5px solid rgb(72, 66, 245); 
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1144pt;
+    border-radius: 11px;
+}

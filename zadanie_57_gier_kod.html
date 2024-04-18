@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <H1>KOD HTML</H1>
+<textarea cols="115" rows="50">
+    <!DOCTYPE html>
+    <html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="zadanie_57_gier.css"/>
+    </head>
+    <body>
+    
+    <p><u>Akapit 1</u>Gierszewski klasa 1P grupa 1<br>
+        Użyłem * gwiazdka dla selektora uniwersalnego,<br>
+        Parametry dla selektora uniwersalnego: (dla imienia Mikołaj)<br>
+        wielkość 30+liczba_liter_imienia w [pt] = 30+7 (Mikołaj)=37 [pt],<br>
+        mam numer w dzienniku 7 a więc nieparzysty, czyli kolor tła srebrny.<br>
+        kolor liter czerwony (dla numerów nieparzystych w dzienniku).<br>
+    </p>
+    
+    <p class="klasa_nieuniwersalna_gierszewski ">
+        Akapit 2 Gierszewski klasa 1P grupa 1<br>
+        Użyłem p. klasa_nieuniwersalna_gierszewski,<br>
+    Parametry dla klasy nieuniwersalnej: (dla nazwiska Gierszewski)<br>
+    wielkość 25+liczba_liter_nazwiska w [pt] = 25+11 (Gierszewski)=36 [pt],<br>
+    kolor liter zielony (dla numerów nieparzystych w dzienniku).<br>
+    </p>
+    
+    <h1 class="klasa_uniwersalna_gierszewski ">
+        Akapit 3 Gierszewski klasa 1P grupa 1<br>
+        Użyłem . klasa_uniwersalna_gierszewski dla H1,<br>
+    Parametry dla klasy uniwersalnej: (dla miesiąca urodzenia-4)<br>
+    wielkość 20+miesiąc urodzenia w [pt] = 20+4 (kwiecień)=24 [pt] ,<br>
+    kolor liter zielony(dla numerów nieparzystych w dzienniku).<br>
+    </h1>
+    
+    <div class="klasa_uniwersalna_gierszewski ">
+    Akapit 4 Gierszewski klasa 1P grupa 1<br>
+    Użyłem . klasa_uniwersalna_gierszewski dla DIV,<br>
+    Parametry dla klasy uniwersalnej: (dla miesiąca urodzenia-4)<br>
+    wielkość 20+miesiąc urodzenia w [pt] = 20+4 (kwiecień)=24 [pt] ,<br>
+    kolor liter zielony(dla numerów nieparzystych w dzienniku).<br>
+    </div>
+    </body>
+        </html>
+</textarea>
+
+
+
+
+
+<H1>KOD CSS</H1>
+<textarea cols="115" rows="20">
+    *{
+        font-size: 37pt;
+        color: red;
+        background-color: silver;
+    }
+    
+    p.klasa_nieuniwersalna_gierszewski{
+        font-size: 37pt;
+        color: green;
+    
+    }
+    
+    
+    .klasa_uniwersalna_gierszewski{
+        font-size: 36pt;
+        color: green;
+    }
+    </textarea>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+    </html>
