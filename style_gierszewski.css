@@ -1,0 +1,51 @@
+html, body
+ {
+background-color: pink;
+ color: lightpink;
+ margin-top: 10px;
+ font-family: 'Trebuchet MS', Arial, sans-serif;
+ }
+
+ div#strona
+ {
+width: 800px;
+ margin: 0 auto;
+ padding: 10px;
+ background-color: hotpink;
+ }
+
+ div#naglowek
+ {
+height: 100px;
+ padding: 10px;
+ background-color: deeppink;
+ color: lightpink;
+ }
+
+ div#menu
+ {
+width: 150px;
+ float: left;
+ overflow: hidden;
+ padding: 10px;
+ background-color: mediumvioletred;
+ }
+ div#menu ul
+ {
+list-style-type: none;
+ }
+
+ div#zawartosc
+ {
+overflow: hidden;
+ padding: 20px;
+ background-color: palevioletred;
+ }
+
+ div#stopka
+ {
+clear: both;
+ padding: 10px;
+ background-color: pink;
+ color: hotpink;
+ }
